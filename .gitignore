@@ -7,4 +7,5 @@ target/
 .project
 .settings/
 *Thrash*
+
 bin/
